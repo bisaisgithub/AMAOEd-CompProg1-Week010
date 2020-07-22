@@ -3,7 +3,7 @@ public:
 	
 	int width, lenght, height;
 	
-	Box(int , int , int);
+	Box(int lenght, int width, int height);
 	int getVolume();
 };
 
